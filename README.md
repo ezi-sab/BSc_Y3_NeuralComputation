@@ -1,6 +1,6 @@
 # NC_Lab
 
-### Lab session from UoB :speech_balloon:
+### Lab session from UoB :card_file_box:
 > Based on Jupyter Notebook & Python 
 
 ### :memo: Week01_Python Basics
