@@ -1,4 +1,4 @@
-# NC_Lab
+# UG_NeuralComputation
 
 ### Lab session from UoB :card_file_box:
 > Based on Jupyter Notebook & Python 
